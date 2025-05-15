@@ -1,8 +1,3 @@
----
-title: Install PAM library
-
----
-
 # PAM Password change Daemon 
 ## How It Works
 
